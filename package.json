@@ -1,14 +1,14 @@
 {
-  "name": "scratchpad",
+  "name": "mash",
   "version": "0.0.0",
-  "description": "A nice environment for playing with Javascript",
+  "description": "A wireframe for app prototypes",
   "scripts": {
     "start": "webpack-dev-server",
     "test": "mocha --recursive --compilers js:babel/register"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/iryan2/scratchpad"
+    "url": "https://github.com/iryan2/mash"
   },
   "author": "Ian Ryan <iryan2@gmail.com>",
   "license": "MIT",
