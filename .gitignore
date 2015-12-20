@@ -5,3 +5,4 @@ node_modules/
 ignore/
 npm-debug.log
 scratch
+reference
